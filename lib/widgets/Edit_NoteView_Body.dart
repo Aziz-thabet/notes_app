@@ -1,3 +1,4 @@
+// ignore_for_file: file_names
 import 'package:flutter/material.dart';
 import 'package:notes_app/widgets/Custom_Text_Field.dart';
 import 'package:notes_app/widgets/custom_App_Bar.dart';
