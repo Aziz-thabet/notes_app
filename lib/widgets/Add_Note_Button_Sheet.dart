@@ -1,7 +1,5 @@
 // ignore_for_file: file_names
-
 import 'package:flutter/material.dart';
-import 'package:notes_app/constants.dart';
 import 'package:notes_app/widgets/Custom_Text_Field.dart';
 
 import 'Custom_Button.dart';
